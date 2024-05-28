@@ -59,11 +59,7 @@ Follow these steps to set up the project on your local system:
 - A custom color map is applied to the generated frames.
 
 ## Demo
-
-
-https://github.com/usta-cyber/Challenge2_ImageDB_Resize/assets/61576602/72089f5d-47f7-4bc4-8503-0f4addb95387
-
-
+![demo-ezgif com-video-to-gif-converter](https://github.com/usta-cyber/Challenge2_ImageDB_Resize/assets/61576602/cabde046-73c4-4e9e-ae72-2208219b7a5c)
 
 ## Example Workflow
 1. **Store Images in Database:**
