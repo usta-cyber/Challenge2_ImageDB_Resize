@@ -1,6 +1,4 @@
-# Challenge2_ImageDB_Resize
-image DB and resizing
-# Image Storage and Processing API
+# Challenge 2 Image resizing and storage
 
 ## Overview
 This repository contains a python code for storing images into a database, resizing them, and performing operations based on the image data. It includes an API to request image frames, apply a custom color map, and manage image width refinement.
