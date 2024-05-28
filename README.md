@@ -58,6 +58,13 @@ Follow these steps to set up the project on your local system:
 - An API is provided to request image frames based on `depth_min` and `depth_max` parameters.
 - A custom color map is applied to the generated frames.
 
+## Demo
+
+
+https://github.com/usta-cyber/Challenge2_ImageDB_Resize/assets/61576602/72089f5d-47f7-4bc4-8503-0f4addb95387
+
+
+
 ## Example Workflow
 1. **Store Images in Database:**
    - Resize images to a width of 150 pixels.
