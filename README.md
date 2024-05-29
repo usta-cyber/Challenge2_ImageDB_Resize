@@ -16,7 +16,7 @@ Follow these steps to set up the project on your local system:
 
 1. **Clone the Repository:**
     ```sh
-    git https://github.com/usta-cyber/Challenge2_ImageDB_Resize.git
+    git clone https://github.com/usta-cyber/Challenge2_ImageDB_Resize.git
     cd Challenge2_ImageDB_Resize
     ```
 
